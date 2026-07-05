@@ -1,13 +1,8 @@
 ---
-date: '2018-10-01'
-title: 'Flagship Pioneering'
+date: '2020-01-01'
+title: ''
 github: ''
-external: 'https://www.flagshippioneering.com/'
-tech:
-  - Craft CMS
-  - Chart.js
-company: 'Upstatement'
+external: ''
+tech: []
 showInProjects: false
 ---
-
-A marketing site for an ambitious life sciences venture capital company.

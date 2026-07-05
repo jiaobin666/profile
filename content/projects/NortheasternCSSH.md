@@ -1,15 +1,8 @@
 ---
-date: '2020-07-16'
-title: 'Northeastern CSSH'
+date: '2020-01-01'
+title: ''
 github: ''
-external: 'https://cssh.northeastern.edu/'
-tech:
-  - WordPress
-  - Timber
-  - WordPress Multisite
-  - PHP
-  - Algolia
-  - JS
-company: 'Upstatement'
+external: ''
+tech: []
 showInProjects: false
 ---

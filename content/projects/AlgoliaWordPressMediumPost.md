@@ -1,14 +1,15 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2024-10-15'
+title: '全平台文件同步网'
+github: 'https://github.com/jiaobin666'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Syncthing
+  - Tailscale
+  - WireGuard
+  - Docker
+  - Linux
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+不依赖第三方云盘的私有同步网络。Syncthing + Tailscale + WireGuard，四台设备自动同步，P2P 直连 33ms，数据隐私完全由自己掌控。

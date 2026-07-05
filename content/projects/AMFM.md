@@ -1,14 +1,16 @@
 ---
-date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+date: '2024-09-01'
+title: 'MC 联机中继'
+github: 'https://github.com/jiaobin666'
+external: ''
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - FRP
+  - Nginx
+  - CrowdSec
+  - vnstat
+  - Tailscale
+  - Shell Script
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+基于阿里云 ECS 自建的 Minecraft 联机加速中继服务。FRP 内网穿透 + 令牌认证 + 流量监控 + 入侵防御，朋友连接延迟稳定 30ms，两个月零故障运行。

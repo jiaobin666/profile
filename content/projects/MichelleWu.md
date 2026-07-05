@@ -1,11 +1,8 @@
 ---
-date: '2020-09-15'
-title: 'Michelle Wu for Boston Grassroots Toolkit'
+date: '2020-01-01'
+title: ''
 github: ''
-external: 'https://toolkit.michelleforboston.com/'
-tech:
-  - Gatsby
-  - Styled Components
-company: 'Upstatement'
+external: ''
+tech: []
 showInProjects: false
 ---

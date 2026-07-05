@@ -1,14 +1,8 @@
 ---
-date: '2017-08-01'
-title: 'Interventions'
+date: '2020-01-01'
+title: ''
 github: ''
-external: 'https://interventions.design/'
-tech:
-  - Jekyll
-  - SCSS
-  - JS
-company: 'Scout'
+external: ''
+tech: []
 showInProjects: false
 ---
-
-Interactive marketing website for Northeastern's first annual student-led design conference, Interventions.

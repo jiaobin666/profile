@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['C/C++', 'STM32', 'Linux', 'Docker', 'Tailscale', 'Syncthing', 'FRP', 'Nginx'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,33 +135,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! 我是刘成，西南交通大学电子信息工程专业的大一新生。说得简单点——
+              就是个<strong>爱搞东西的</strong>。从 STM32 单片机到云服务器，从电路焊接到
+              Tailscale 组网——遇到感兴趣的就钻进去，非把它弄明白不可。
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              大一期间，我折腾了不少东西：用阿里云 ECS 搭建 Minecraft 联机中继，FRP 隧道
+              配上流量监控和 CrowdSec 安全防护；用 Syncthing + Tailscale 搭建全平台文件
+              同步网络，让四台设备自动同步，完全不走第三方云盘。每一次折腾都让我对「工程」
+              两个字有更深的理解。
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              这个网站就是我的数字花园，记录折腾过程和学习笔记。我觉得最爽的事情莫过于：
+              有一个想法，<strong>把它做出来，然后让它真的跑起来</strong>。
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>最近在捣鼓这些技术：</p>
           </div>
 
           <ul className="skills-list">

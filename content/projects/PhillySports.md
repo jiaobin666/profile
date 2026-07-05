@@ -1,12 +1,8 @@
 ---
-date: '2021-07-01'
-title: 'Philadelphia Inquirer Sports Scoreboards'
+date: '2020-01-01'
+title: ''
 github: ''
-external: 'https://www.inquirer.com/sports/'
-tech:
-  - React
-  - TypeScript
-  - Stats Perform API
-company: 'Upstatement'
+external: ''
+tech: []
 showInProjects: false
 ---

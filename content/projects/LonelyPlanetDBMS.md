@@ -1,15 +1,8 @@
 ---
-date: '2017-06-22'
-title: 'Lonely Planet DBMS'
-github: 'https://github.com/bchiang7/CS3200-Project'
+date: '2020-01-01'
+title: ''
+github: ''
 external: ''
-tech:
-  - Python
-  - MySQL
-  - Flask
-  - JS
-company: 'Northeastern'
+tech: []
 showInProjects: false
 ---
-
-A simple web application that allows users to filter through and leave reviews in a database of Lonely Planet's Top 500 Travel Destinations.

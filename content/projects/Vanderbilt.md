@@ -1,12 +1,8 @@
 ---
-date: '2021-06-01'
-title: 'Vanderbilt Design System'
+date: '2020-01-01'
+title: ''
 github: ''
-external: 'https://www.vanderbilt.edu/'
-tech:
-  - Twig
-  - Puppy
-  - JS
-company: 'Upstatement'
+external: ''
+tech: []
 showInProjects: false
 ---

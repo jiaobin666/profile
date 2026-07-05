@@ -2,12 +2,11 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: '刘成',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+      '刘成的个人网站 — 西南交通大学电子信息大一新生，爱折腾、爱构建。从 STM32 到云服务器，从电路焊接到 Tailscale 组网。',
+    siteUrl: 'https://lcwebsite.top',
+    image: '/og.png',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: '刘成',
+        short_name: '刘成',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
@@ -147,12 +146,6 @@ module.exports = {
             },
           },
         ],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: 'UA-45666519-2',
       },
     },
   ],
