@@ -3,6 +3,9 @@ date: '2024-09-01'
 title: 'MC 联机中继'
 github: 'https://github.com/jiaobin666'
 external: ''
+ios: ''
+android: ''
+company: ''
 tech:
   - FRP
   - Nginx

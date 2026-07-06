@@ -4,6 +4,7 @@ title: 'MC 联机中继'
 cover: './demo.png'
 github: 'https://github.com/jiaobin666'
 external: ''
+cta: ''
 tech:
   - FRP
   - Nginx

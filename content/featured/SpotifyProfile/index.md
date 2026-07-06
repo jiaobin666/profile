@@ -4,6 +4,7 @@ title: '全平台文件同步网'
 cover: './demo.png'
 github: 'https://github.com/jiaobin666'
 external: ''
+cta: ''
 tech:
   - Syncthing
   - Tailscale

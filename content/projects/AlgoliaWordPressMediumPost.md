@@ -3,6 +3,9 @@ date: '2024-10-15'
 title: '全平台文件同步网'
 github: 'https://github.com/jiaobin666'
 external: ''
+ios: ''
+android: ''
+company: ''
 tech:
   - Syncthing
   - Tailscale
