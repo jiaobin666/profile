@@ -84,6 +84,22 @@ const GlobalStyle = createGlobalStyle`
       font-size: var(--fz-lg);
     }
 
+    &::before {
+      content: '';
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 0;
+      pointer-events: none;
+      background: radial-gradient(
+        600px circle at var(--mouse-x, 50%) var(--mouse-y, 50%),
+        rgba(100, 255, 218, 0.06),
+        transparent 80%
+      );
+    }
+
     &.hidden {
       overflow: hidden;
     }
@@ -109,6 +125,8 @@ const GlobalStyle = createGlobalStyle`
     display: grid;
     grid-template-rows: 1fr auto;
     grid-template-columns: 100%;
+    position: relative;
+    z-index: 1;
   }
 
   main {

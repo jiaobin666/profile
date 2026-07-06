@@ -2,16 +2,16 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #020c1b;
-    --navy: #0a192f;
-    --light-navy: #112240;
-    --lightest-navy: #233554;
-    --navy-shadow: rgba(2, 12, 27, 0.7);
+    --dark-navy: #000814;
+    --navy: #060e1f;
+    --light-navy: #0d1b3a;
+    --lightest-navy: #1a2d4f;
+    --navy-shadow: rgba(0, 8, 20, 0.7);
     --dark-slate: #495670;
-    --slate: #8892b0;
-    --light-slate: #a8b2d1;
-    --lightest-slate: #ccd6f6;
-    --white: #e6f1ff;
+    --slate: #94a3c4;
+    --light-slate: #b4bfdd;
+    --lightest-slate: #d6e0ff;
+    --white: #edf4ff;
     --green: #64ffda;
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
